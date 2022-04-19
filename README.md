@@ -2,7 +2,9 @@
 エクセルVBAでlogin、logoutを実行
 
 ｅ支店APIのサンプルコード（Excel VBA）
+
 ファイル名: e_api_login_out.xlsm
+
 APIバージョン： v4r2で動作確認
 
 ご注意！！ ================================
